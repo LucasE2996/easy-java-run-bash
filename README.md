@@ -1,7 +1,7 @@
 <h1 align="center">Java Run shortcut installer ☕️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/lucashwwt" target="_blank">
+  <a href="https://twitter.com/lucashtwt" target="_blank">
     <img alt="Twitter: lucashwwt" src="https://img.shields.io/twitter/follow/lucashwwt.svg?style=social" />
   </a>
 </p>
