@@ -28,7 +28,7 @@ chmod +x javarun.sh
 👤 **Lucas Rosa**
 
 * Website: https://codepen.io/Lucas-Rosa/
-* Twitter: [@lucashwwt](https://twitter.com/lucashtwt)
+* Twitter: [@lucashtwt](https://twitter.com/lucashtwt)
 * Github: [@LucasE2996](https://github.com/LucasE2996)
 
 ## Show your support
