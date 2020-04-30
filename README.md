@@ -38,6 +38,7 @@ On terminal run:
 ```sh
 javarun
 ```
+The folowing output will appear on your terminal:
 
 Expeted output:
 
