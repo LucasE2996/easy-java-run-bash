@@ -2,14 +2,14 @@
 
 clear
 
-echo "Copying script to your bashrc"
-echo "javarun() {
-	read app
-	javac $app.java
-	java $app
-}" >> ~/.bashrc
-
-echo "Updating bashrc"
-source ~/.bashrc
-
-echo "Instalation complete!"
+echo "Enter the java filename without .java extension:"
+read APP
+FILE=$APP.java
+if [ -f $FILE ]; then
+	javac $FILE
+	echo -e "output: \n"
+	java $APP
+	rm $APP.class
+else
+	echo "Failure: file $APP.java not found"
+fi

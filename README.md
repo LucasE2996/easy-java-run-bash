@@ -6,22 +6,48 @@
   </a>
 </p>
 
-> Easy way to run a .java file through bash terminal
+#### Easy way to run a .java file through bash terminal.
+
+> To run this code you should have jdk installed in your machine and the java command available on your terminal. To verify this just run "java -version" on your terminal and see if there is no error.
 
 ## Install
 
-You need to enable execution permission to this file.
+Once downloaded you need to enable execution permission to this file.
 
 ```sh
-chmod +x javarun.sh
+chmod +x install.sh
 ```
+
+```sh
+./install.sh
+```
+
+Expeted output:
+```sh
+Installing javarun... Enter file to insert alias (e.g. zshrc; bashrc; bash_profile):
+bashrc #you will have to write the file name here
+Instalation success!
+```
+
+Now you have the command installed!
 
 ## Run
 
+On terminal run:
+
 ```sh
-./javarun.sh
+javarun
 ```
 
+Expeted output:
+
+```sh
+Enter the java filename without .java extension:
+Main #you will have to write file name here
+Output:
+
+Hello World!
+```
 
 ## Author
 
