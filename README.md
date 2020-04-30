@@ -18,14 +18,17 @@ Once downloaded you need to enable execution permission to this file.
 chmod +x install.sh
 ```
 
+Now run the following on you terminal:
+
 ```sh
 ./install.sh
 ```
 
 Expeted output:
+
 ```sh
 Installing javarun... Enter file to insert alias (e.g. zshrc; bashrc; bash_profile):
-bashrc #you will have to write the file name here
+bashrc # here write your config bash file (for example: if you use zsh, it will be zshrc)
 Instalation success!
 ```
 
@@ -44,7 +47,7 @@ Expeted output:
 
 ```sh
 Enter the java filename without .java extension:
-Main #you will have to write file name here
+Main # here write the java file name you want to run. In this project there is a Main.java for demonstration.
 Output:
 
 Hello World!
