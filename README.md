@@ -60,7 +60,7 @@ For me it is *zshrc*, so let's type this on the terminal:
 
 ```sh
 Installing javarun... Enter file to insert alias (e.g. zshrc; bashrc; bash_profile):
-zshrc # you will type here
+zshrc # you will type here and then press enter
 ```
 
 Now if everything went ok, the following output is expected:
@@ -91,11 +91,11 @@ Expected output:
 Enter the java filename without .java extension:
 ```
 
-Now the command will wait until you type the name of the java file you want to run. The file name we have here is *Main.java*, so we need to type "Main". Let's do this:
+Now the command will wait until you type the name of the java file you want to run. The file we have here as example is *Main.java*, so we need to type "Main". Let's do this:
 
 ```sh
 Enter the java filename without .java extension:
-Main # you will write here
+Main # you will type here and then press enter
 ```
 
 Now if everything went ok, the exepected output is the following:
