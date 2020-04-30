@@ -21,7 +21,22 @@ chmod +x javarun.sh
 ```sh
 ./javarun.sh
 ```
+The folowing output will appear on your terminal:
 
+```sh
+Copying script to your bashrc
+Updating bashrc
+Instalation complete!
+```
+
+This means that the *javarun* command will ba available for you terminal. Now just type:
+
+```sh
+# java-file must be without any extension
+javarun <java-file>
+```
+
+And that's it. Your java file will run on your terminal!
 
 ## Author
 
