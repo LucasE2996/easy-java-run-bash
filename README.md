@@ -69,7 +69,7 @@ Now if everything went ok, the following output is expected:
 Installation success!
 ```
 
-Now you have the command installed!
+Now just restart your terminal and you have the command installed!
 
 ## Run
 
