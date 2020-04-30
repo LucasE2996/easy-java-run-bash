@@ -26,7 +26,6 @@ RCFILEPATH=~/.$RCFILE
 
 if [ -f $RCFILEPATH ]; then
   echo -e "\n\nalias javarun='~/.javarun/javarun.sh'" >> $RCFILEPATH
-  source $RCFILEPATH
   echo -e "\e[32mInstation success!"
 else
   echo "Instalation failed... The file $RCFILEPATH could not be found"
